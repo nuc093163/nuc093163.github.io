@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            jnuc093的博客
 locale:           en_US
 url:              
 
@@ -26,7 +26,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: jnuc093
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email: 
