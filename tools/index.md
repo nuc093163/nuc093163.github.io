@@ -20,6 +20,15 @@ image:
 5. [sublime快捷键](http://www.cnblogs.com/rollenholt/archive/2012/07/30/2616089.html)
 6. 插件体系 package manager
 
+[realpython](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)上的python配置。首先安装Split Layouts
+
+###快捷键
+
+快捷键			 		| 功能点           		| 插件名称
+------------------------| ----------------------| ------------
+Com+Shirft+P			|   安装包				| 
+Com+Alt+a				|   等号等齐				| Alignment
+
 ###phonegap
 1. [Android Platform Guide](http://docs.phonegap.com/en/2.9.0/guide_getting-started_android_index.md.html#Android%20Platform%20Guide)
 2. [简明手册](http://lucifr.com/139225/sublime-text-2-tricks-and-tips/)
