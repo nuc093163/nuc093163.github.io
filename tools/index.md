@@ -20,7 +20,10 @@ image:
 5. [sublime快捷键](http://www.cnblogs.com/rollenholt/archive/2012/07/30/2616089.html)
 6. 插件体系 package manager
 
-[realpython](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)上的python配置。首先安装Split Layouts
+	[realpython](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)上的python配置。首先安装Split Layouts。其他工具包color hightlighter颜色插件,
+snippets HTML标签辅助插件快速编辑html,Emmet基于前者。用View->Show Console
+显示命令日志 sublime.log_commands(True)来制作快捷键。py格式包Sublime​Linter-pep​8怎么用。
+Markdown Preview如何显示?
 
 ###快捷键
 

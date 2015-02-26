@@ -35,7 +35,7 @@ DataNitro+excel
 [hyry](http://hyry.dip.jp/tech/book/page/scipy/numpy_ndarray.html#id1)神钢科学计算
 
 ##人物
-[zhoulin的IT之旅](http://www.itzhoulin.com/git-workflow-for-small-team/)  [我们都爱pull request](http://liluo.org/about/),[小黑屋的博客](http://blog.turbidsoul.me/)python同步LDAP数据
+[zhoulin的IT之旅](http://www.itzhoulin.com/git-workflow-for-small-team/)  [我们都爱pull request](http://liluo.org/about/),[小黑屋的博客](http://blog.turbidsoul.me/)python同步LDAP数据,[静觅 崔庆才 网络爬虫 的网站](http://cuiqingcai.com/category/technique/python)
 
 ##openCV相关
 
