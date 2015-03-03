@@ -37,9 +37,17 @@ DataNitro+excel
 ##人物
 [zhoulin的IT之旅](http://www.itzhoulin.com/git-workflow-for-small-team/)  [我们都爱pull request](http://liluo.org/about/),[小黑屋的博客](http://blog.turbidsoul.me/)python同步LDAP数据,[静觅 崔庆才 网络爬虫 的网站](http://cuiqingcai.com/category/technique/python)
 
+##py学习问题
+* 什么是dic
+* 什么是列表
+
+[py连接oracle](http://kevindalias.com/2014/03/26/how-to-set-up-cx_oracle-for-python-on-mac-os-x-10-89/)
+
+[gist的安装方法](https://gist.github.com/thom-nic/6011715)
+
 ##openCV相关
 
-[openCV2.4.9安装](https://jjyap.wordpress.com/2014/05/24/installing-opencv-2-4-9-on-mac-osx-with-python-support/) 可以查看grep pythonpath、[吴新星的安装方法](http://blog.sciencenet.cn/blog-47522-760937.html) 
-[日本Python科学计算网站](http://hyry.dip.jp/tech/slice/index),[numpy与matlab的数据交换](http://fmajor.lamost.org/blog/?p=1120)另有傅立叶变换算法描述,[csdn](http://blog.csdn.net/morewindows/article/category/1291764),zigga[机器视觉在线](http://www.zigaa.com/) 
+[openCV2.4.9安装](https://jjyap.wordpress.com/2014/05/24/installing-opencv-2-4-9-on-mac-osx-with-python-support/) 可以查看grep pythonpath、[吴新星的安装方法](http://blog.sciencenet.cn/blog-47522-760937.html)
+[日本Python科学计算网站](http://hyry.dip.jp/tech/slice/index),[numpy与matlab的数据交换](http://fmajor.lamost.org/blog/?p=1120)另有傅立叶变换算法描述,[csdn](http://blog.csdn.net/morewindows/article/category/1291764),zigga[机器视觉在线](http://www.zigaa.com/)
 
 优酷"双目测量传感器" Q 308140218
