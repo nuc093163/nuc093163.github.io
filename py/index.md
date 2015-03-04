@@ -45,6 +45,13 @@ DataNitro+excel
 
 [gist的安装方法](https://gist.github.com/thom-nic/6011715)
 
+[anaconda oracle](http://davebehnke.com/using-python-anaconda-distribution.html)
+
+####py3k
+  conda create -n py3k python=3 anaconda
+
+  source activate py3k
+
 ##openCV相关
 
 [openCV2.4.9安装](https://jjyap.wordpress.com/2014/05/24/installing-opencv-2-4-9-on-mac-osx-with-python-support/) 可以查看grep pythonpath、[吴新星的安装方法](http://blog.sciencenet.cn/blog-47522-760937.html)
