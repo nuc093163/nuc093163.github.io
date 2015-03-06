@@ -29,7 +29,7 @@ Markdown Preview如何显示?
 
 快捷键			 		| 功能点           		| 插件名称
 ------------------------| ----------------------| ------------
-Com+Shirft+P			|   安装包				| 
+Com+Shirft+P			|   安装包				|
 Com+Alt+a				|   等号等齐				| Alignment
 
 ###phonegap
@@ -61,13 +61,21 @@ Nettuts+ Fetch自动加载
 
 ###sublime插件体系
 1. 包管理 package manager
-2. jsFormat 
+2. jsFormat
 3. Docblock 注释利器
 4. tag插件
-5. 
+5.
 
 
 ##Intellij
 
 ##Pycharm
 
+##Atom
+快捷键			 		| 功能点           		| 插件名称
+------------------------| ----------------------| ------------
+Com+Ctrl+P			|   项目管理				|
+Com+，				   |   系统设置				|
+
+
+[5 Tips For Getting Started](http://readwrite.com/2014/05/20/github-atom-5-tips-getting-started-tutorial-corey-johnson)
