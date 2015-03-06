@@ -72,10 +72,11 @@ Nettuts+ Fetch自动加载
 ##Pycharm
 
 ##Atom
+
 快捷键			 		| 功能点           		| 插件名称
 ------------------------| ----------------------| ------------
 Com+Ctrl+P			|   项目管理				|
-Com+，				   |   系统设置				|
+Com+，				   |   系统设置				  |系统
 
 
 [5 Tips For Getting Started](http://readwrite.com/2014/05/20/github-atom-5-tips-getting-started-tutorial-corey-johnson)
