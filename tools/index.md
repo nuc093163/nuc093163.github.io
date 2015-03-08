@@ -75,8 +75,9 @@ Nettuts+ Fetch自动加载
 
 快捷键			 		| 功能点           		| 插件名称
 ------------------------| ----------------------| ------------
-Com+Ctrl+P			|   项目管理				|
+Com+Ctrl+P			|   显示已保存的项目				|
 Com+，				   |   系统设置				  |系统
+Com+Shift+P			|   插件、命令等等				|
 
 
 [5 Tips For Getting Started](http://readwrite.com/2014/05/20/github-atom-5-tips-getting-started-tutorial-corey-johnson)
