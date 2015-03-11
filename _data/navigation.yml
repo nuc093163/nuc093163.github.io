@@ -1,12 +1,9 @@
 # Site navigation links
 
-- title: About
-  url: /about/
-
-- title: Sample Posts
+- title: 文章
   url: /posts/
 
-- title: Theme Setup
+- title: 主题
   url: /theme-setup/
 
 - title: py
@@ -15,5 +12,5 @@
 - title: 工具
   url: /tools/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: 关于
+  url: /about/
